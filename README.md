@@ -1,3 +1,5 @@
+https://adithiashetty.netlify.app/
+
 Personal Portfolio Website is a responsive and interactive web project built using HTML, CSS, and JavaScript. It serves as a digital space to showcase my personal projects, technical skills, and professional achievements. The goal of this project was to create a clean, user-friendly interface that effectively presents information and leaves a strong impression on visitors, especially recruiters and potential collaborators.
 
 The website is divided into multiple sections, including Home, About Me, Skills, Projects, Resume, and Contact. Each section is designed with attention to layout and readability, ensuring smooth navigation and a modern visual appearance. Projects are displayed with descriptions, technologies used, and links to both the live version and source code. The design is fully responsive, making it accessible across all devices and screen sizes.
